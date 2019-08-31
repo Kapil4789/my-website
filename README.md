@@ -1,5 +1,3 @@
 # my-website
 
-
-
-RED me fiele..
+This is Redme File..
